@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div style={{fontSize:"70px", textAlign:"center"}}>
+    <div  className="flex justify-center items-center gap-10 bg-black h-96 w-full text-8xl font-extrabold">
     <h1>Hello World</h1>
     </div>
   );
